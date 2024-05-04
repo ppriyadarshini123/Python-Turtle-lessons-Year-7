@@ -10,6 +10,6 @@ myTurtle.goto(10,10)
 #change turtle shape: "turtle","arrow","circle","square","arrow","triangle","classic"
 myTurtle.shape("classic")
 myTurtle.shapesize(10,10,10)
-myTurtle.fillcolor("yellow")
-myTurtle.pencolor("green")
+myTurtle.fillcolor("yellow")#fille colour
+myTurtle.pencolor("green")#outline colour
 time.sleep(5)
